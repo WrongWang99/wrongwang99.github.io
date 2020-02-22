@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on wrong.wang</title>
+    <link>https://wrongwang99.github.io/categories/</link>
+    <description>Recent content in Categories on wrong.wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>This work is licensed under a CC BY-NC 4.0(署名-非商业性使用 4.0 国际) License.</copyright>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wrongwang99.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>基金</title>
+      <link>https://wrongwang99.github.io/categories/%E5%9F%BA%E9%87%91/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wrongwang99.github.io/categories/%E5%9F%BA%E9%87%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>随想</title>
+      <link>https://wrongwang99.github.io/categories/%E9%9A%8F%E6%83%B3/</link>
+      <pubDate>Sat, 20 Oct 2018 11:34:29 +0800</pubDate>
+      
+      <guid>https://wrongwang99.github.io/categories/%E9%9A%8F%E6%83%B3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
